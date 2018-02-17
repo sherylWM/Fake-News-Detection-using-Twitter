@@ -15,5 +15,7 @@ positive, negative and neutral.
 
 Executed all machine learning models in R.
 
-The pdf contains the project implementation and model accuracy information.
+The pdf contains the dataset description, exploratory data analysis, data cleaning steps, methodology 
+and model accuracy information.
 
+FinalDataset is the final dataset that is created along with the labels from 2 annotators.
